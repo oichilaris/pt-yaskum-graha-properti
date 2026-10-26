@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pt-yaskum-graha-properti.vercel.app/sitemap.xml
